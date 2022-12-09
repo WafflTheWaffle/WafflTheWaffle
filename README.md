@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Fun Projects
 - 📫 How to reach me: Detonator #6377 on discord!
-- 
 
 <!---
 WafflTheWaffle/WafflTheWaffle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
