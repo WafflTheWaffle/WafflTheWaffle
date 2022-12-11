@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WafflTheWaffle
-- 👀 I’m interested in Software Development and Datamining games such as Apex Legends!
+- 👀 I’m interested in Software Development and Softwere engineering
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Fun Projects
 - 📫 How to reach me: Detonator #6377 on discord!
